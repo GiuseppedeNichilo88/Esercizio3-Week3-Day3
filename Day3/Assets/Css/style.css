@@ -1,0 +1,31 @@
+html,
+body {
+    margin: 0;
+    text-align: center;
+    background-color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+}
+
+
+.custom-label:hover {
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}
+
+input {
+    margin-left: 5%;
+}
+
+li {
+    background-color: rgb(168, 138, 196);
+
+
+}
+
+#taskList {
+    list-style: none;
+    padding: 0;
+}
